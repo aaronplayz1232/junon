@@ -228,7 +228,7 @@
       }
     },
     "ItemCrafted": {
-      "description": "Event triggered when asteroid mined",
+      "description": "Event triggered when item crafted",
       "variables": {
         "type": "name of item crafted",
         "player": "name of player who crafted item"
